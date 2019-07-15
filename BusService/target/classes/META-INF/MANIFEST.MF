@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: BusService
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: saranya.kannusamy
+Implementation-Vendor-Id: com.DBService
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://projects.spring.io/spring-boot/BusService/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

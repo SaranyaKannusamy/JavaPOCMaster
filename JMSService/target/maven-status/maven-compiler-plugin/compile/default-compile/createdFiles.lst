@@ -1,0 +1,3 @@
+com\jmsService\JMSService\JMSServiceApplication.class
+com\jmsService\JMSService\Receiver.class
+com\jmsService\JMSService\Email.class
